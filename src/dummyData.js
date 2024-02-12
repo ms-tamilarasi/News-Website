@@ -1,7 +1,7 @@
 export const hero = [
   {
     id: 1,
-    cover: "./images/hero/hero1.jpg",
+    cover: "images/hero/hero1.jpg",
     catgeory: "featured",
     title: "Google To Boost Android Security In Few Days",
     authorName: "Salman",
