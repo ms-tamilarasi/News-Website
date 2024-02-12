@@ -429,27 +429,27 @@ export const gallery = [
 export const discover = [
   {
     title: "games",
-    cover: "./images/discover/d1.jpg",
+    cover: "images/discover/d1.jpg",
   },
   {
     title: "sports",
-    cover: "./images/discover/d2.jpg",
+    cover: "images/discover/d2.jpg",
   },
   {
     title: "humour",
-    cover: "./images/discover/d3.jpg",
+    cover: "images/discover/d3.jpg",
   },
   {
     title: "gadgets",
-    cover: "./images/discover/d4.jpg",
+    cover: "images/discover/d4.jpg",
   },
   {
     title: "movies",
-    cover: "./images/discover/d5.jpg",
+    cover: "images/discover/d5.jpg",
   },
   {
     title: "nitendo",
-    cover: "./images/discover/d6.jpg",
+    cover: "images/discover/d6.jpg",
   },
 ]
 {
